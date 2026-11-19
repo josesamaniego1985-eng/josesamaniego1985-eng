@@ -1,16 +1,16 @@
-## Hi there 👋
+# José Osmar Samaniego Gauna
 
-<!--
-**josesamaniego1985-eng/josesamaniego1985-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Doctor en Administración de Empresas y estudiante de la Licenciatura en Inteligencia Artificial y Robótica (etapa de tesis). Trabajo en el cruce entre la gestión empresarial y la IA aplicada: entender el negocio primero, automatizar después.
 
-Here are some ideas to get you started:
+## Qué hago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AXENTRA AI** — fundador. Implementación de Odoo ERP en Paraguay con contabilidad DNIT, facturación electrónica SIFEN, nómina con IPS e integración de IA. → [axentra-ai.com.py](https://www.axentra-ai.com.py)
+- **Arandu AI** — asistente de IA que transcribe y ordena entrevistas de relevamiento de procesos.
+- **ACREDIA** — plataforma en Python que asiste los procesos de autoevaluación con fines de acreditación de carreras (ANEAES).
+- **Docencia** — programas de IA aplicada a contadores y a finanzas corporativas; docente universitario.
+
+## Stack
+
+Python · Odoo · LLM, RAG y agentes de IA · Automatización de procesos · Análisis de datos
+
+> Los repositorios de proyectos con clientes son privados. Demostraciones disponibles a pedido.
