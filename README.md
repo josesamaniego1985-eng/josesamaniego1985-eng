@@ -4,8 +4,8 @@ Doctor en Administración de Empresas y estudiante de la Licenciatura en Intelig
 
 ## Qué hago
 
-- **AXENTRA AI** — fundador. Implementación de Odoo ERP en Paraguay con contabilidad DNIT, facturación electrónica SIFEN, nómina con IPS e integración de IA. → [axentra-ai.com.py](https://www.axentra-ai.com.py)
-- **Arandu AI** — asistente de IA que transcribe y ordena entrevistas de relevamiento de procesos.
+- **AXENTRA AI** — socio y responsable de desarrollo. Implementación de Odoo ERP en Paraguay con contabilidad DNIT, facturación electrónica SIFEN, nómina con IPS e integración de IA. → [axentra-ai.com.py](https://www.axentra-ai.com.py)
+- **Arandu AI** (desarrollo de AXENTRA) — asistente de IA que transcribe y ordena entrevistas de relevamiento de procesos.
 - **ACREDIA** — plataforma en Python que asiste los procesos de autoevaluación con fines de acreditación de carreras (ANEAES).
 - **Docencia** — programas de IA aplicada a contadores y a finanzas corporativas; docente universitario.
 
